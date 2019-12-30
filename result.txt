@@ -1,0 +1,2 @@
+your score in level 1 is: 100
+your score in level 2 is: 345
